@@ -1,0 +1,14 @@
+venv/
+weights/
+outputs/
+.cache/
+dist/
+build/
+_merge_check/
+_weights_check/
+__pycache__/
+*.pyc
+*.pyo
+*.part
+.idea/
+.vscode/
